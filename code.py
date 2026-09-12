@@ -9,7 +9,7 @@ import asyncio
 
 # ===== CONFIG (yaha apni cheezein daalo) =====
 BOT_TOKEN = "8617014423:AAEztr2WNnWRbonUQo-nNhnUvpkdaMC7uMQ"   # 👈 BotFather wala token
-GEMINI_API_KEY = "AQ.Ab8RN6J4adJGp7ef5xYMmICcrA8_ONjYM2kx2eGhdyKBdrcang"             # 👈 aistudio.google.com se free key lo
+GEMINI_API_KEY = "AQ.Ab8RN6LPNPpDffeHhqKAUp2mpPM30di8NobJa-lu8MucKh3ScQ"             # 👈 aistudio.google.com se free key lo
 GROUP_IDS = [
     "-1003565032579",  # 👈 Group 1
     "-1002222222222",  # 👈 Group 2
